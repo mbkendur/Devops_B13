@@ -1,1 +1,2 @@
 Hello Git Practice
+Second line added
